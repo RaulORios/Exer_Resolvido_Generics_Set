@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1500
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exer_Resolvido_Generics_Conjuntos", "Exer_Resolvido_Generics_Conjuntos\Exer_Resolvido_Generics_Conjuntos.csproj", "{278E597F-E6D8-4DBE-999F-35DB76214CEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{278E597F-E6D8-4DBE-999F-35DB76214CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{278E597F-E6D8-4DBE-999F-35DB76214CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{278E597F-E6D8-4DBE-999F-35DB76214CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{278E597F-E6D8-4DBE-999F-35DB76214CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {042304D6-5221-4CEC-B174-E02AA140214A}
+	EndGlobalSection
+EndGlobal
